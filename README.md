@@ -65,7 +65,7 @@ Since the data looked synthetic, I wrote nine new Hinglish sentences that didn�
 | bhag gandu ma chuda jaake | offensive | offensive | offensive | offensive |
 | Yo i love that pizza bhai it is so good | not offensive | not offensive | not offensive | not offensive |
 | Yeah I know usko farak nahi padta bhai | not offensive | not offensive | not offensive | not offensive |
-| Uske mama ka bh0s*a uski ma k! ch!t | offensive | offensive | offensive |
+| Uske mama ka bh0s*a uski ma k! ch!t | offensive | offensive | offensive | offensive |
 
 **Main takeaway:** None of the models caught the offensive sentence without explicit slurs ("yaar tu kitna ghatiya insaan hai"). They only flagged sentences with clear trigger words—doesn’t matter if you use TF-IDF or a transformer.
 
